@@ -1,4 +1,4 @@
-﻿package com.sqm.p2.util;
+package com.sqm.p2.util;
 
 
 import java.util.*;
